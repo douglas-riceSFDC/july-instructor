@@ -31,4 +31,8 @@ public with sharing class ProjectManagerAssigner {
         
         update childTimesheets;
     }
+
+    public static void additionalMethod() {
+        
+    }
 }
